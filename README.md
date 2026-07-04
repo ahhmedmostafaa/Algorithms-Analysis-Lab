@@ -49,6 +49,3 @@ mvn exec:java -Dexec.mainClass="com.mycompany.finalalgorithmprojectgui.FinalAlgo
 - [ ] Add automated tests comparing runtime for varying array sizes (empirical proof of the complexity analysis)
 - [ ] Add a chart plotting actual runtime vs input size
 - [ ] Let the user choose the sorting algorithm from the GUI
-
----
-*Originally built for an "Analysis of Algorithms" university course; refined for portfolio presentation.*
